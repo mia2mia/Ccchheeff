@@ -1,0 +1,303 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<!-- If you delete this meta tag, the ground will open and swallow you. -->
+<meta name="viewport" content="width=device-width" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>ZURBemails</title>
+
+<link rel="stylesheet" type="text/css" href="stylesheets/email.css" >
+
+</head>
+ 
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+
+<!-- HEADER -->
+<table class="head-wrap" bgcolor="#FF9933">
+  <tr>
+    <td></td>
+    <td class="header container" align="">
+      
+      <!-- /content -->
+      <div class="content">
+	<table bgcolor="#999999" >
+	  <tr>
+	    <td><img src="http://www2.meethue.com/media/615165/philips.png" alt="Philips Logo" style="width:200px;height:50px;"/></td>
+	    <td align="right"><h6 class="collapse">Newsletter</h6></td>
+	    </tr>
+	  </table>
+	</div><!-- /content -->
+      
+      </td>
+    <td></td>
+    </tr>
+</table><!-- /HEADER -->
+
+<!-- BODY -->
+<table class="body-wrap" bgcolor="">
+  <tr>
+    <td></td>
+    <td class="container" align="" bgcolor="#FFFFFF">
+      
+      <!-- content -->
+      <div class="content">
+	<table>
+	  <tr>
+	    <td>
+	      
+	      <h1>Data Analytics</h1>
+	      <p class="lead">Read more to find out how data analytics is revolutionizing soccer, the US presidential election and the world</p>
+	      
+	      <!-- A Real Hero (and a real human being) -->
+	      <p><img src="http://www.usa.philips.com/b-dam/b2b-li/en_AA/Experience/cases/lighting-dragon/Dragon-Bridge---Child--S2.jpg" alt="Philips Logo" style="width:600px;height:300px;"/></p><!-- /hero -->
+	      <h4>Quote of the month <small>William Saroyan</small></h4>
+	      <p>Good people are good because they've come to wisdom through failure. </p>
+	      </td>
+	    </tr>
+	  </table>
+	</div><!-- /content -->
+      
+      <!-- content -->
+      <div class="content">
+	
+	<table bgcolor="">
+	  <tr>
+	    <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="http://specials-images.forbesimg.com/imageserve/38852779/960x0.jpg" alt="US Election" style="width:75px;height:75px;"/></td>
+	    <td>
+	      <h4>Data analytics is driving the US presidential race <small>Source: Forbes</small></h4>
+	      <p class="">Data Analytics is driving the US presidential campaign. Both Democratic & Republican candidates microtarget voters by providing personailized campaign messages. The Clinton campaign has sent out 728 different messages, depending on the demographics of the voter. </p>
+	      <a href="http://www.forbes.com/sites/metabrown/2016/05/29/big-data-analytics-and-the-next-president-how-microtargeting-drives-todays-campaigns/#6c646a9d1400" class="btn">Click to read more &raquo;</a>
+	      </td>
+	    </tr>
+	  </table>
+	
+	</div><!-- /content -->
+      
+      <!-- content -->
+      <div class="content"><table bgcolor="">
+	  <tr>
+	    <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="http://www.information-age.com/sites/default/files/styles/article_landscape/public/field/image/AdobeStock_9804318.jpeg" alt="Blockchain" style="width:75px;height:75px;"/></td>
+	    <td>
+	      <h4>Blockchain will defend the IoT? <small>Source: Information Age</small></h4>
+	      <p class="">By 2020, 50 billion devices will be connected, making security & data management critical infrastructure issues. The use of Blockchains has been proposed as a mean to solve this. IBM and Samsung are currently developing ADEPT, an IoT system that uses blockchain as backbone. </p>
+	      <a href="http://www.information-age.com/technology/security/123461443/how-blockchain-will-defend-internet-things" class="btn">Click to read more &raquo;</a>
+	      </td>
+	    </tr>
+	  </table></div><!-- /content -->
+      
+      <!-- content -->
+      <div class="content"><table bgcolor="FFFF33">
+	  <tr>
+	    <td>
+	      <h4>Research Highlight <small>Tiblets Demewez: Hue Analytics</small></h4>
+	      <!-- Callout Panel -->
+	      <p class="">Tiblets Demewez is deploying advanced algorithms and data analytics solutions on the Hue projects. Potential insights from the work include predicting user preferences, anticipating usage towards better energy management and life-cycle analysis on the health of the hue system. <a href="tiblets.demewez@philips.com">Reach out! &raquo;</a></p><!-- /callout panel -->
+	      
+	      </td>
+	    </tr>
+	  </table></div><!-- /content -->
+      
+      <!-- content -->
+      <div class="content"><table bgcolor="">
+	  <tr>
+	    <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="http://francisgouillart.files.wordpress.com/2009/10/ibm-cisco-3.jpg"  alt="IBM Cisco" style="width:75px;height:75px;"/></td>
+	    <td>
+	      <h4>IBM and Cisco partner on IoT <small>Source: CIO.com</small></h4>
+	      <p class="">Cisco, is partnering with IBM, with the hopes of leveraging IBM's technology stack on Cisco's massive networking web. This will allow firms with Cisco routers to access IBM's AI platform locally without having to upload massive datasets. </p>
+	      <a href="http://www.cio-today.com/article/index.php?story_id=022000D4VFEO" class="btn">Click to read more &raquo;</a>
+	      </td>
+	    </tr>
+	  </table></div><!-- /content -->
+      
+      <!-- content -->
+      <div class="content"><table bgcolor="">
+	  <tr>
+	    <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="https://pbs.twimg.com/profile_images/712231425718800384/pC1vq2Ql.jpg"  alt="Leicester City" style="width:75px;height:75px;"/></td>
+	    <td>
+	      <h4>How Leicester City won the EPL with Data Analytics <small>Source: Computer Weekly</small></h4>
+	      <p class="">Despite odds of 1:5000, Leicester City won the EPL. Asides the players & coach heroics, the team's leverage on data analytics was a differentiator. Deploying analytics to track fitness metrics, such as sprints and high intensity runs, the team optimized player performance and recovery time. </p>
+	      <a href="http://www.computerweekly.com/news/450296302/Foxy-Leicester-City-FC-won-Premiership-with-data-analytics" class="btn">Click to read more &raquo;</a>
+	      
+	      </td>
+	    </tr>
+	  </table></div><!-- /content -->
+      <div class="content"><table bgcolor="">
+	  <tr>
+	    <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="https://gcn.com/articles/2016/05/16/~/media/GIG/GCN/Redesign/Articles/2016/May/dodanalytics.png"  alt="Military" style="width:75px;height:75px;"/></td>
+	    <td>
+	      <h4>Obstacles remain in Military adoption of Data Analytics <small>Source: GCN.com</small></h4>
+	      <p class="">The adoption of Big Data analytics in the military is still facing several obstacles. Asides general reservations on security, officials question if there are valid propositions for the deployment of certain analytic technologies. Officials, however, seem excited about certain technologies such as smart metering and analytics driven insights. </p>
+	      <a href="https://gcn.com/articles/2016/05/16/military-analytics.aspx" class="btn">Click to read more &raquo;</a>
+	      
+	      </td>
+	    </tr>
+	  </table></div><!-- /content -->
+      <!-- content -->
+      <div class="content"><table bgcolor="">
+	  <tr>
+	    <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="https://si.wsj.net/public/resources/images/BN-OI742_MALLTE_J_20160606134340.jpg"  alt="Blockchain" style="width:75px;height:75px;"/></td>
+	    <td>
+	      <h4>Shopping malls embrace technology to entice shoppers <small>Source: Wall Street Journal</small></h4>
+	      <p class="">Previously only retailers integrated technology to improve customer experience. However, large number of shop closures is forcing malls to invest to technologies such as to help shoppers navigate mall corridors,  helping shoppers find parking spaces, and compare flash sales on different store floors. </p>
+	      <a href="http://www.wsj.com/articles/mall-landlords-embrace-high-tech-to-entice-shoppers-1465291802" class="btn">Click to read more &raquo;</a>
+	      
+	      </td>
+	    </tr>
+	  </table></div><!-- /content -->
+      <div class="content"><table bgcolor="">
+	  <tr>
+	    <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="http://c.fastcompany.net/multisite_files/fastcompany/imagecache/slideshow_large/slideshow/2016/06/3060448-slide-s-2-smart-mirrors-might-be-the-future-of-in-store-customer-analytics.jpg"  alt="Blockchain" style="width:75px;height:75px;"/></td>
+	    <td>
+	      <h4>Smart Mirrors open new frontier in retail <small>Source: Fastcompany</small></h4>
+	      <p class="">Oaks labs is transforming the in-store shopping experience with its smart mirror technology. Retailers can better track items within the store, producing data and insights on customer behavior, e.g. determining items customers will more likely try on, but not purchase. </p>
+	      <a href="http://www.fastcompany.com/3060448/startup-report/smart-mirrors-might-be-the-future-of-in-store-customer-analytics" class="btn">Click to read more &raquo;</a>
+	      
+	      </td>
+	    </tr>
+	  </table></div><!-- /content -->
+      <!-- content -->
+      <div class="content"><table bgcolor="">
+	  <tr>
+	    <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="http://cdn.slashgear.com/wp-content/uploads/2014/02/hidof3.png"  alt="Blockchain" style="width:75px;height:75px;"/></td>
+	    <td>
+	      <h4>Google's project Tango, hope to map all indoor spaces <small>Source: CNET.com</small></h4>
+	      <p class="">Google's project Tango, aims to map all indoor spaces. Lenovo's Phab 2 Pro, is the first smartphone enabled with the technology. The technology can 3D map items indoors, with a potential to open up a vast array of untapped and invaluable data.  </p>
+	      <a href="http://www.cnet.com/news/with-tango-google-is-now-equipped-to-map-the-entire-world-inside-and-out/" class="btn">Click to read more &raquo;</a>
+	      
+	      </td>
+	    </tr>
+	  </table></div><!-- /content -->
+      <div class="content"><table bgcolor="">
+	  <tr>
+	    <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="http://images.techhive.com/images/article/2015/09/statistics-stats-big-data-analytics-100613892-primary.idge.jpg"  alt="Blockchain" style="width:75px;height:75px;"/></td>
+	    <td>
+	      <h4>Microsoft embracing opensource, increases support for Spark <small>Source: Networkworld</small></h4>
+	      <p class="">Miscrosoft is finally embracing open source technologies. The firm recently annouced its intention to leverage Spark for its big data analytics offerings, including Cortana Intelligence Suite, Power BI and Microsoft R Server. </p>
+	      <a href="http://www.networkworld.com/article/3081248/big-data-business-intelligence/microsoft-boosts-support-for-spark-based-big-data-analytics.html" class="btn">Click to read more &raquo;</a>
+	      
+	      </td>
+	    </tr>
+	  </table></div><!-- /content -->
+      </table></div><!-- /content -->
+<div class="content"><table bgcolor="">
+    <tr>
+      <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="https://pbs.twimg.com/profile_images/573144203070349314/DNfmO5a3.png"  alt="Blockchain" style="width:75px;height:75px;"/></td>
+      <td>
+	<h4>German Analytics Startup Celonis Raises $27.5M <small>Source: Icrunchdatanews.com</small></h4>
+	<p class=""> Data analytics firm, Celonis, has raised $27.5m. The firm develop data analytics software to help clients improve arcane business processes. By analyzing log files and other bits of data from all computer systems, it maps out the inner working of the firm and identifies potential technical bottlenecks. </p>
+	<a href="https://icrunchdatanews.com/german-big-data-analytics-software-startup-celonis-raises-funding-process-mining/" class="btn">Click to read more &raquo;</a>
+	
+	</td>
+      </tr>
+    </table></div><!-- /content -->
+</table></div><!-- /content -->
+<div class="content"><table bgcolor="">
+    <tr>
+      <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="http://media.cms.bmc.com/images/it-operations-analytics.png"  alt="Blockchain" style="width:75px;height:75px;"/></td>
+      <td>
+	<h4>Using buzz analytics to gain a product and marketing edge <small>Source: McKinsey and Company</small></h4>
+	<p class="">Gaining even a slight edge in today’s tightly contested, rapidly shifting product markets can help companies reap sizable gains in share and margins. In this game of inches, the required capabilities are zeroing in on what consumers really want and will pay for, unearthing chatter about product deficiencies that undercut sales, and knowing where product designs should be tweaked to shave costs. </p>
+	<a href="http://www.mckinsey.com/business-functions/operations/our-insights/Using-buzz-analytics-to-gain-a-product-and-marketing-edge?cid=other-soc-lkn-mip-mck-1605&kui=0E4D79IFwcZyfkteaGIAPg" class="btn">Click to read more &raquo;</a>
+	
+	</td>
+      </tr>
+    </table></div><!-- /content -->
+</table></div><!-- /content -->
+<div class="content"><table bgcolor="">
+    <tr>
+      <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="https://lh3.googleusercontent.com/-eDtPpKZSZNU/AAAAAAAAAAI/AAAAAAAAAAA/fSbvL1u18zw/photo.jpg"  alt="Blockchain" style="width:75px;height:75px;"/></td>
+      <td>
+	<h4>What is Deep Learning? A short history everyone should read <small>Source: Linkedin.com</small></h4>
+	<p class="">Deep learning is a topic that is making big waves at the moment. It is basically a branch of machine learning (another hot topic) that uses algorithms to e.g. recognize objects and understand human speech. Scientists have used deep learning algorithms with multiple processing layers (hence “deep”) to make better models from large quantities of unlabeled data (such as photos with no description, voice recordings or videos on YouTube). </p>
+	<a href="https://www.linkedin.com/pulse/what-deep-learning-here-short-history-everyone-should-bernard-marr?trk=hp-feed-article-title-like" class="btn btn-primary btn-xs">Click to read more &raquo;</a>
+	
+	</td>
+      </tr>
+    </table></div><!-- /content -->
+
+<!-- content -->
+<div class="content">
+  <table bgcolor="">
+    <tr>
+      <td>
+	
+	<!-- social & contact -->
+	<table bgcolor="" class="social" width="100%">
+	  <tr>
+	    <td>
+	      
+	      <!--- column 1 -->
+	      <div class="column">
+		<table bgcolor="" cellpadding="" align="left">
+		  <tr>
+		    <td>
+		      
+		      <h5 class="">Connect with Us:</h5>
+		      <p class=""><a href="https://apps.ce.collabserv.com/contacts/orgprofiles/partnerPage/200393916" class="soc-btn gp">Data Analytics on IBM community</a></p>
+		      
+		      
+		      </td>
+		    </tr>
+		  </table><!-- /column 1 -->
+		</div>
+	      
+	      <!--- column 2 -->
+	      <div class="column">
+		<table bgcolor="" cellpadding="" align="left">
+		  <tr>
+		    <td>
+		      
+		      <h5 class="">Contact Info:</h5>
+		      <p>Phone: <strong>617.250.0339</strong><br/>
+                Email: <strong><a href="emailto:olaitan.olaleye@philips.com">Data Analytics Board</a></strong></p>
+                
+		      </td>
+		    </tr>
+		</table><!-- /column 2 -->
+		</div>
+	      
+	      <div class="clear"></div>
+	      
+	      </td>
+	    </tr>
+	  </table><!-- /social & contact -->
+	
+	</td>
+      </tr>
+    </table>
+  </div><!-- /content -->
+
+
+</td>
+<td></td>
+</tr>
+</table><!-- /BODY -->
+
+<!-- FOOTER -->
+<table class="footer-wrap">
+  <tr>
+    <td></td>
+    <td class="container">
+      
+      <!-- content -->
+      <div class="content">
+	<table>
+	  <tr>
+	    <td align="center">
+	      <p>
+		<a href="olaitan.olaleye@philips.com">Feedback</a> |
+		<a href="olaitan.olaleye@philips.com"><unsubscribe>Unsubscribe</unsubscribe></a>
+		</p>
+	      </td>
+	    </tr>
+	  </table>
+	</div><!-- /content -->
+      
+      </td>
+    <td></td>
+    </tr>
+</table><!-- /FOOTER -->
+
+</body>
+</html>
